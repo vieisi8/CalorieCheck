@@ -52,10 +52,6 @@ Mini-AIFFELTHon??
 
 ---
 
-![image](https://github.com/user-attachments/assets/18f7bcca-29c0-42cb-86b7-ef036fd64dd8)
-
----
-
 ![image](https://github.com/user-attachments/assets/e0f5e915-6105-4c8d-9604-310619ae58dc)
 
 ## 프로젝트 결과/성과
