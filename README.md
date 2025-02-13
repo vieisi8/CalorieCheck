@@ -43,7 +43,7 @@ Mini-AIFFELTHon??
 
 ## 프로젝트 기여
   - 영양성분 확인에 필요한 DB 생성
-  - LLM 모델 선정 및 검색 기반 RAG 구현
+  - LLM 모델 선정 및 Search 기반 RAG 구현
   - Fast API를 활용한 웹 제작
   - 최종 프로토타입 실행 프로세스에 기여
 
@@ -65,5 +65,5 @@ Mini-AIFFELTHon??
 
 ## 프로젝트를 통해 배운 점과 아쉬운 점이나 보완할 점
 - LLM을 Ollama를 통한 local LLM으로 사용 가능하다는 것을 알게 됨
-- RAG를 처음 적용해 봤기에 retrieval 기반이 아닌 검색 기반이라 아쉬움
+- RAG를 처음 적용해 봤기에 retrieval 기반이 아닌 단순 Search 기반에 그친 것이 아쉬움
 - 음료 제품군뿐만 아니라 다양한 제품군으로 넓혀가야 함
