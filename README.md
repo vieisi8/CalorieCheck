@@ -48,7 +48,8 @@ Mini-AIFFELTHon??
   - 최종 프로토타입 실행 프로세스에 기여
 
 ## CalorieCheck(프로토타입) 시연
-![image](https://github.com/user-attachments/assets/d1e01106-dd11-4d2d-b30b-f962ab0e5bc6)
+
+![그림5](https://github.com/user-attachments/assets/a6ed5a32-2ab2-41e9-9ff8-899002bfdf7b)
 
 ---
 
